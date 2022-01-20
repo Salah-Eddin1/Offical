@@ -53,7 +53,7 @@
                     </a>
                     <ul class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown ">
                       <li ><a class="dropdown-item  " href="contact-us.php">Contact Us</a></li>
-                      <li ><a class="dropdown-item  " href="database1.php">Database</a></li>
+                      <li ><a class="dropdown-item  " href="#">Database</a></li>
                       <li><hr class="dropdown-divider bg-light "></li>
                       <li ><a class="dropdown-item  " href="#">Something else here</a></li>
                     </ul>
